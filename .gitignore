@@ -36,3 +36,11 @@ go.work.sum
 # Python
 __pycache__/
 *.pyc
+
+# Build output and secrets
+/dist/
+*.exe
+*.syso
+private.key
+*.lic
+examples/out/
