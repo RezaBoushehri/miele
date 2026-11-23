@@ -1,0 +1,2 @@
+#Firmenkennz:#Kunde#EGKonf#AnfDatum#BaujahrEGErkl#DokuSprache#ErsSprache#ProdSchl#MaschNr#PrjNr
+#75#RASTA GROUP# #28.02.2024#28.02.2024#ENU#ENU#SAWTEQ S-200 optimat#0341739193#          
